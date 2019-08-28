@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/vision2/u/bingbin/ORN/ckpt/epic_headsobject_gcnObj1_gcnCtxt1_bt8_lr1e-04_wd1e-05_adjprior_oEmb128_vEmb128_nLayer2_nTopObjs10'
+let g:netrw_dirhist_2='/sailhome/bingbin/object_level_visual_reasoning/inference'
+let g:netrw_dirhist_3='/vision2/u/bingbin/ORN/ckpt/epic_headsobject_gcnObj0_gcnCtxt0_bt8_lr1e-04_wd1e-05_newSelectiveRel_tmp'
