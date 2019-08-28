@@ -1,10 +1,7 @@
-Move the following to use:
+1. Run `setup.sh`, which will get Vundle and copy vim/tmux files to home.
 
-vim
-* vim --> ~/.vim
-* vimrc --> ~/.vimrc
+2. Open `~/.vimrc` and use command `:PluginInstall` to install the plugins.
 
-tmux
-* tmux.conf --> ~/.tmux.conf
-* tmux.conf.local --> ~/.tmux.conf.local
+3. You are all set! :)
+
 
