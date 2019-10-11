@@ -6,9 +6,9 @@
 
 3. You are all set! :)
 
-**Note**: These are my `vim` and `tmux` settings. I especially like the color scheme ([gruvbox](https://github.com/morhetz/gruvbox)) and highly recommend trying it out. :)
+**Note**: These are my `vim` and `tmux` settings. I especially like the color scheme ([gruvbox](https://github.com/morhetz/gruvbox)) and highly recommend trying it out.
 
-Also, two remapped `vim` commands that I find handy:
+Two remapped `vim` commands that I find handy:
 * `jk` to quit the insert mode (no need to reach for the `esc` key!);
 * `;` to replace `:` (no need to press shift).
 
