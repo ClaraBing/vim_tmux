@@ -4,6 +4,9 @@
 #         Copyright 2012— Gregory Pakosz (@gpakosz).
 
 
+# -- default shell -------
+set-option -g default-shell /bin/bash
+
 # -- navigation ----------------------------------------------------------------
 
 # if you're running tmux within iTerm2
