@@ -44,6 +44,9 @@ vnoremap ; :
 
 set pastetoggle=<F10>
 
+noremap j gk
+noremap k gj
+
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-H> <C-W><C-H>
