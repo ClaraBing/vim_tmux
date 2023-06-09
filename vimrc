@@ -52,3 +52,12 @@ nnoremap <C-K> <C-W><C-K>
 nnoremap <C-H> <C-W><C-H>
 nnoremap <C-L> <C-W><C-L>
 
+" NOTE: this is for Windows only QAQ
+"" for block select
+"map <C-r> <C-v>
+"" for moving cursor to the beginning / end of line
+"nnoremap <C-Left> 0
+"nnoremap <C-Right> $
+"inoremap <C-Left> <C-o>0
+"inoremap <C-Right> <C-o>$
+
