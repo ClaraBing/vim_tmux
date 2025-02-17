@@ -3,6 +3,7 @@
 1. Run `setup.sh`, which will get Vundle and copy vim/tmux files to home.
 
 2. Open `~/.vimrc` and use command `:PluginInstall` to install the plugins, including [Vundle](https://github.com/VundleVim/Vundle.vim) the plugin manager, and [nerdtree](https://github.com/scrooloose/nerdtree) for file system navigation within `vim`.
+  * If the color schedme didn't work, consider adding `export TERM=xterm-256color` to your `~/.bashrc` and source it.
 
 3. You are all set! :)
 
